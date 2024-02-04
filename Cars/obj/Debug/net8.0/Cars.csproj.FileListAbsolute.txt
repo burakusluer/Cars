@@ -1,0 +1,14 @@
+C:\Users\Burak\Desktop\csharp\ASPNETMVC\engin_demirog 2024\Cars\Cars\bin\Debug\net8.0\Cars.exe
+C:\Users\Burak\Desktop\csharp\ASPNETMVC\engin_demirog 2024\Cars\Cars\bin\Debug\net8.0\Cars.deps.json
+C:\Users\Burak\Desktop\csharp\ASPNETMVC\engin_demirog 2024\Cars\Cars\bin\Debug\net8.0\Cars.runtimeconfig.json
+C:\Users\Burak\Desktop\csharp\ASPNETMVC\engin_demirog 2024\Cars\Cars\bin\Debug\net8.0\Cars.dll
+C:\Users\Burak\Desktop\csharp\ASPNETMVC\engin_demirog 2024\Cars\Cars\bin\Debug\net8.0\Cars.pdb
+C:\Users\Burak\Desktop\csharp\ASPNETMVC\engin_demirog 2024\Cars\Cars\obj\Debug\net8.0\Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Desktop\csharp\ASPNETMVC\engin_demirog 2024\Cars\Cars\obj\Debug\net8.0\Cars.AssemblyInfoInputs.cache
+C:\Users\Burak\Desktop\csharp\ASPNETMVC\engin_demirog 2024\Cars\Cars\obj\Debug\net8.0\Cars.AssemblyInfo.cs
+C:\Users\Burak\Desktop\csharp\ASPNETMVC\engin_demirog 2024\Cars\Cars\obj\Debug\net8.0\Cars.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\csharp\ASPNETMVC\engin_demirog 2024\Cars\Cars\obj\Debug\net8.0\Cars.dll
+C:\Users\Burak\Desktop\csharp\ASPNETMVC\engin_demirog 2024\Cars\Cars\obj\Debug\net8.0\refint\Cars.dll
+C:\Users\Burak\Desktop\csharp\ASPNETMVC\engin_demirog 2024\Cars\Cars\obj\Debug\net8.0\Cars.pdb
+C:\Users\Burak\Desktop\csharp\ASPNETMVC\engin_demirog 2024\Cars\Cars\obj\Debug\net8.0\Cars.genruntimeconfig.cache
+C:\Users\Burak\Desktop\csharp\ASPNETMVC\engin_demirog 2024\Cars\Cars\obj\Debug\net8.0\ref\Cars.dll
